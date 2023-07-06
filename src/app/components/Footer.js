@@ -29,7 +29,7 @@ const Footer = () => {
                     </div>
                     <div className={footerStyles['link-boxes']}>
                         <ul className={footerStyles.box}>
-                            <li className={footerStyles.link_name}>Company</li>
+     e3                       <li className={footerStyles.link_name}>Company</li>
                             <li><a href="#">Home</a></li>
                             <li><a href="#">Contact us</a></li>
                             <li><a href="#">About us</a></li>
